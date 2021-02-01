@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: o mnie
     url: false
     entries:
       - title: Arturro43
@@ -12,7 +12,7 @@ entries:
       - title: Privacy Links
         url: https://github.com/Arturro43/privacy-links
 
-  - title: thoughts
+  - title: posty
     post_list: true
     url: false
     entries: false
@@ -20,18 +20,7 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: another list
+  - title: kontakt
     url: false
     entries:
-      - title: with subitems
-        url: false
-        entries:
-          - title: with subsubitems
-            url: false
-          - title: example page
-            url: about
-  - title: PRO TIP
-    url: false
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
-        url: false
+      - title: wkrótce!
