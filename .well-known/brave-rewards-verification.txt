@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: arturro43.github.io
+Token: 3532546e24a5fa3eea41ada22361e37d9e79523cede869b3f9a06362ed740420

@@ -1,0 +1,13 @@
+prywatność
+android
+bezpieczeństwo
+alternatywy
+google
+brave
+2FA
+fabularne
+spotify
+info
+wyciek
+dorked
+wolność
