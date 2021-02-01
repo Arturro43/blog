@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ten o tym czy 2FA to remedium na wszystkie problemy
-permalink: '/o-2fa'
 tags: bezpieczeństwo 2FA
 published: false
 ---

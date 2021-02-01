@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ten o minimalizacji zbieranych danych
-permalink: '/o-minimalizacji'
 tags: prywatność
 published: true
 ---

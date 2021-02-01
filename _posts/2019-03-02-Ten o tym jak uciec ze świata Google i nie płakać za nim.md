@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ten o tym jak uciec ze świata Google i nie płakać za nim
-permalink: '/o-ucieczce-z-google'
 tags: google prywatność brave bezpieczeństwo alternatywy
 published: true
 ---
