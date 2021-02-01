@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Ten o zabezpieczaniu telefonu z Androidem
 permalink: '/o-zabezpieczaniu-androida'
 tags: android prywatność bezpieczeństwo

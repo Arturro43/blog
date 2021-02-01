@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Ten o tym jak znalazłem 61 tysięcy polskich adresów email
 permalink: '/wyciek-audiostereo'
 tags: wyciek dorked

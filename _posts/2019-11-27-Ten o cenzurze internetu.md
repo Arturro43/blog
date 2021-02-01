@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Wciskają przycisk i... nie ma internetu.
 permalink: '/'
 tags: bezpieczeństwo wolność

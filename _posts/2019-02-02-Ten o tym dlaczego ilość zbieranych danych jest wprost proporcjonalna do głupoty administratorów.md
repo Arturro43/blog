@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Ten o minimalizacji zbieranych danych
 permalink: '/o-minimalizacji'
 tags: prywatność

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Ten o tajemniczych artystach na Spotify
 permalink: '/o-tajemniczych-artystach-spotify'
 tags: spotify 2FA fabularne

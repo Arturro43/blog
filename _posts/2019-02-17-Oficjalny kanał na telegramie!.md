@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Obserwuj publikacje za pomocą kanału na Telegramie!
 permalink: '/telegram'
 tags: info
