@@ -1,0 +1,30 @@
+[[entries]]
+title = "blog"
+
+  [[entries.entries]]
+  title = "o mnie"
+
+  [[entries.entries]]
+  title = "Arturro43"
+
+  [[entries.entries]]
+  title = "github"
+  url = "https://github.com/Arturro43"
+
+  [[entries.entries]]
+  title = "projekty"
+  url = "https://arturro43.github.io/"
+
+[[entries]]
+title = "posty"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "Zobacz pozostałe..."
+  show_more_url = "posts"
+
+
+[[entries]]
+title = "rss"
+url = "index.xml"
