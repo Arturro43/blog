@@ -2,6 +2,7 @@
 layout: post
 title: Ten o tym jak uciec ze świata Google i nie płakać za nim
 tags: google prywatność brave bezpieczeństwo alternatywy
+date: 2019-03-02T00:00:00+02:00
 published: true
 ---
 

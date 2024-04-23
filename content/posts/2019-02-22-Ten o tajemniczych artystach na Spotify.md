@@ -2,6 +2,7 @@
 layout: post
 title: Ten o tajemniczych artystach na Spotify
 tags: spotify 2FA fabularne
+date: 2019-02-22T00:00:00+02:00
 published: true
 ---
 

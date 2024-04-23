@@ -2,6 +2,7 @@
 layout: post
 title: Wciskają przycisk i... nie ma internetu.
 tags: bezpieczeństwo wolność
+date: 2019-11-27T00:00:00+02:00
 published: false
 ---
 
