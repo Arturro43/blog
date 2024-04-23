@@ -12,7 +12,7 @@ W wolnym czasie bawię się [Google Dorks](https://niebezpiecznik.pl/post/sterow
 
 Jestem bardzo zdeterminowany, więc dotarłem aż do trzeciej strony wyników, a tam moim oczom ukazał się wynik taki jak na załączonym obrazku:
 
-<img src="../images/as-1.png" alt="1" style="width: 500px;"/>
+<img src="../../images//as-1.png" alt="1" style="width: 500px;"/>
 
 W jakim ja byłem szoku jak zobaczyłem ścieżkę do pliku w adresie url XD
 
@@ -20,14 +20,14 @@ W jakim ja byłem szoku jak zobaczyłem ścieżkę do pliku w adresie url XD
 
 No to co, usuwamy nazwę pliku i patrzymy do folderu?
 
-<img src="../images/as-2.png" alt="2" style="width: 720px;"/>
+<img src="../../images//as-2.png" alt="2" style="width: 720px;"/>
 
 Ups. Na tym miejscu pragnę zaznaczyć obecność pliku send.log, w którym prawdopodobnie są maile nawet tych osób, które usunęły się z listy mailingowej.
 [https://www.audiostereo.pl/mailing/send.log](https://www.audiostereo.pl/mailing/send.log)
 
 61063 linijki.
 
-<img src="../images/as-3.png" alt="3" style="width: 500px;"/>
+<img src="../../images//as-3.png" alt="3" style="width: 500px;"/>
 
 61063 adresów email dostępnych publicznie i zindeksowancyh przez Google.
 
@@ -40,6 +40,6 @@ O wycieku powiadomiłem również Troya Hunta (ten od [have i been pwned?](https
 
 Tymczasem chcę podziękować administratorom za prężną współprace i szybką reakcję (z publikacją czekałem aż do momentu kiedy uzyskam 403). Dzięki wam z pewnością nikt nie został zaspamowany przez boty szukające takich otwartych baz w indeksie Google ;)
 
-<img src="../images/as-4.png" alt="4" style="width: 500px;"/>
+<img src="../../images//as-4.png" alt="4" style="width: 500px;"/>
 
 Jaka szkoda, że mail na którym się zarejestrowałem tylko i wyłącznie na audiostereo jest teraz zaspamowywany XD

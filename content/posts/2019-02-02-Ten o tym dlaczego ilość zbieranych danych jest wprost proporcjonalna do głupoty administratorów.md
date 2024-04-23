@@ -2,6 +2,7 @@
 layout: post
 title: Ten o minimalizacji zbieranych danych
 tags: prywatność
+date: 2019-02-02T00:00:00+02:00
 published: true
 ---
 
@@ -51,7 +52,7 @@ Każdy człowiek uczy się na błędach. Każdy. Dlaczego więc administratorzy 
 
 Poniżej porównanie odporności (mocy) funkcji skrótu na podstawie ilości sprawdzeń haszy na sekundę (porównanie md5crypt i bcrypt)
 
-[<img src="../images/hashcat md5crypt vs bcrypt.jpg" alt="Klinij mnie, a zabiorę cię do strony odzyskiwacza haseł" style="width: 720px;"/>](https://hashcat.net/hashcat/)
+[<img src="../../images//hashcat md5crypt vs bcrypt.jpg" alt="Klinij mnie, a zabiorę cię do strony odzyskiwacza haseł" style="width: 720px;"/>](https://hashcat.net/hashcat/)
 
 
 

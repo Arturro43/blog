@@ -19,7 +19,7 @@ title = "blog"
 title = "posty"
 
   [entries.post_list]
-  limit = 5
+  limit = 4
   show_more = true
   show_more_text = "Zobacz pozostałe..."
   show_more_url = "posts"
