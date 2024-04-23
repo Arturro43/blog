@@ -1,9 +1,9 @@
 title: Arturro43 # name of the site
 author: Artur Mickiewicz # name of site's author
-email: arturro43@protonmail.com # email of site's author
-url: https://arturro43.github.io/blog # root address of the site
+email: arturro43.kontakt@gmail.com # email of site's author
+url: https://arturro43.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Blog o cyberbezpieczeństwie, prywatności w internecie, wolności informacji i nie tylko
+  Blog o cyberbezpieczeństwie, prywatności w internecie, wolności informacyjnej i nie tylko
 
 permalink: /:slug.html
 
